@@ -5,3 +5,8 @@ public class Bus extends Transport{
         super(brand, model, year, color, country, maximalSpeed);
     }
 }
+
+
+// „Вы знаете зачем вы создали лампу накаливания?
+// — Нет, но я думаю правительство скоро поймет, как брать с людей за это деньги!“
+// —  Томас Эдисон
